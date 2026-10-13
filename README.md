@@ -4,7 +4,7 @@
 that ended a long time ago. Only the robot hasn't noticed.**
 
 <p align="center">
-  <img src="media/gameplay/park_autoplay_teaser.gif" width="720" alt="Three robots crossing a burning park board, fighting beetles">
+  <img src="media/gameplay/hero.gif" width="720" alt="Vex fighting through the roaches at the supermarket's front door">
 </p>
 
 Vex wakes up under the cereal in aisle seven with a handwritten grocery list
@@ -29,11 +29,11 @@ Filled in automatically on every push to the game. The full history is in the
 **[build log](BUILDLOG.md)**.
 
 <!-- buildlog:latest:start -->
+- 2026-10-13 `build 352` · **Art**: decoration *park* (fountain), new unit *baked potato*, new unit *bucket*, new unit *ember hive*, new unit *potato bed*, new unit *snapper*, +6 more · **Art pipeline** · **Design notes** — 3 commits
 - 2026-10-13 `build 349` · **Art**: decoration *park* (compost, hedge, railings, raisedbed), effects, interface art, new unit *ember beetle* · **Engine** · **Rules** · **Story** · **Testing** · **Art pipeline** · **Design notes**: abilities & UI mockups · **Site** — 20 commits
 - 2026-10-12 `build 329` · **Engine** · **Rules** · **Art pipeline** · **Design notes** — 4 commits
 - 2026-10-11 `build 325` · **Art**: effects, new unit *fire*, story stills, terrain tiles · **Levels**: chapter 2, level index · **Engine** · **Rules** · **Story** · **Testing** · **Art pipeline** · **Design notes** — 19 commits
 - 2026-10-10 `build 306` · **Engine** · **Rules** · **Story** · **Testing** · **Art pipeline** · **Design notes** — 6 commits
-- 2026-10-07 `build 300` · **Art**: decoration *supermarket* (shutter, wall), older art archived, unit *burrow* · **Levels**: chapter 1 · **Engine** · **Rules** · **Testing** · **Art pipeline** · **Design notes** — 25 commits
 <!-- buildlog:latest:end -->
 
 ## Devlog
@@ -68,24 +68,25 @@ attacks.
 | ![Vex](media/units/vex.gif) | ![Kade](media/units/kade.gif) | ![Bram](media/units/bram.gif) |
 | Kitchen robot. Proper, precise, and always pays. | Garden robot. Keeps living things alive. | The supermarket's front door. *"After you."* |
 
-| Cockroach | Tick | Ember beetle |
-|:---:|:---:|:---:|
-| ![Cockroach](media/units/cockroach.gif) | ![Tick](media/units/tick.gif) | ![Ember beetle](media/units/ember_beetle.gif) |
-| *"Not on the list. High protein, though."* | Arrives in chapter 1, along with poison. | Chapter 2. The park is burning. |
+| Cockroach | Tick | Ember beetle | Tuber |
+|:---:|:---:|:---:|:---:|
+| ![Cockroach](media/units/cockroach.gif) | ![Tick](media/units/tick.gif) | ![Ember beetle](media/units/ember_beetle.gif) | ![Tuber](media/units/tuber.gif) |
+| *"Not on the list. High protein, though."* | Arrives in chapter 1, along with poison. | Chapter 2. The park is burning. | Chapter 2. Potatoes, and they run. |
 
 ## Gameplay
 
-<a href="media/gameplay/park_autoplay.mp4">
-  <img src="media/gameplay/park_poster.jpg" width="480" align="right" alt="A frame from the park gameplay video">
-</a>
+Six levels, each played for three rounds by a script rather than a person, so
+the moves are random. The clips show the systems, not good play. Click one to
+watch the full round.
 
-**[▶ Watch: five rounds in the park](media/gameplay/park_autoplay.mp4)** (1 min)
-
-A chapter 2 level, played by a script rather than a person, so the moves
-are random. It's here to show the systems moving: path drawing, staged turns,
-fire spreading through smouldering grass, and the enemy turn.
-
-<br clear="right">
+| | |
+|:---:|:---:|
+| [![Baking Aisle](media/gameplay/t2.gif)](media/gameplay/t2.mp4) | [![Checkout](media/gameplay/t3.gif)](media/gameplay/t3.mp4) |
+| **1·2 Baking Aisle**: planks from broken shelving, and a clock | **1·3 Checkout**: nails, and a bill Vex insists on paying |
+| [![Mind the Gap](media/gameplay/t4.gif)](media/gameplay/t4.mp4) | [![Customer Service](media/gameplay/t5.gif)](media/gameplay/t5.mp4) |
+| **1·4 Mind the Gap**: salt, a floor full of holes, and poison | **1·5 Customer Service**: *"Eight of them, and they are not queuing."* |
+| [![The Front Door](media/gameplay/t6.gif)](media/gameplay/t6.mp4) | [![The Old Oak](media/gameplay/p6.gif)](media/gameplay/p6.mp4) |
+| **1·6 The Front Door**: the rescue. Bram has been holding up the ceiling | **2·6 The Old Oak** *(first draft)*: a hive in the oak keeps starting fires |
 
 ## Story stills
 
