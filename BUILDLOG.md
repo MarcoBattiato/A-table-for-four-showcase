@@ -12,6 +12,10 @@ per day of work.
 
 <!-- buildlog:entries -->
 
+### 2026-10-14
+
+- `build 356` · **Art**: decoration *park* (fountain, oak), new unit *baked potato*, new unit *bucket*, new unit *ember hive*, new unit *potato bed*, new unit *snapper*, +6 more · **Levels**: chapter 2, level index, sandbox · **Engine** · **Rules** · **Testing** · **Art pipeline** · **Design notes**: abilities & UI mockups — 10 commits
+
 ### 2026-10-13
 
 - `build 352` · **Art**: decoration *park* (fountain), new unit *baked potato*, new unit *bucket*, new unit *ember hive*, new unit *potato bed*, new unit *snapper*, +6 more · **Art pipeline** · **Design notes** — 3 commits

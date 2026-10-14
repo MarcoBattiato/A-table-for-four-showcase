@@ -29,11 +29,11 @@ Filled in automatically on every push to the game. The full history is in the
 **[build log](BUILDLOG.md)**.
 
 <!-- buildlog:latest:start -->
+- 2026-10-14 `build 356` · **Art**: decoration *park* (fountain, oak), new unit *baked potato*, new unit *bucket*, new unit *ember hive*, new unit *potato bed*, new unit *snapper*, +6 more · **Levels**: chapter 2, level index, sandbox · **Engine** · **Rules** · **Testing** · **Art pipeline** · **Design notes**: abilities & UI mockups — 10 commits
 - 2026-10-13 `build 352` · **Art**: decoration *park* (fountain), new unit *baked potato*, new unit *bucket*, new unit *ember hive*, new unit *potato bed*, new unit *snapper*, +6 more · **Art pipeline** · **Design notes** — 3 commits
 - 2026-10-13 `build 349` · **Art**: decoration *park* (compost, hedge, railings, raisedbed), effects, interface art, new unit *ember beetle* · **Engine** · **Rules** · **Story** · **Testing** · **Art pipeline** · **Design notes**: abilities & UI mockups · **Site** — 20 commits
 - 2026-10-12 `build 329` · **Engine** · **Rules** · **Art pipeline** · **Design notes** — 4 commits
 - 2026-10-11 `build 325` · **Art**: effects, new unit *fire*, story stills, terrain tiles · **Levels**: chapter 2, level index · **Engine** · **Rules** · **Story** · **Testing** · **Art pipeline** · **Design notes** — 19 commits
-- 2026-10-10 `build 306` · **Engine** · **Rules** · **Story** · **Testing** · **Art pipeline** · **Design notes** — 6 commits
 <!-- buildlog:latest:end -->
 
 ## Devlog
